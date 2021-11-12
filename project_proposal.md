@@ -1,15 +1,13 @@
 Project Proposal
 ================
-Eric Wang
-11/12/2021
 
 ## Project Members
 
-1.  Trisha Dwivedi trishad1
-2.  Pooja Mukund pm3148
-3.  Ragyie Rawal rr3423
-4.  Safiya Sirota sns2189
-5.  Eric Wang ew2717
+1.  Trisha Dwivedi - trishad1
+2.  Pooja Mukund - pm3148
+3.  Ragyie Rawal - rr3423
+4.  Safiya Sirota - sns2189
+5.  Eric Wang - ew2717
 
 ## Project Title
 
@@ -30,7 +28,7 @@ expenses by country to see if they are receiving sufficient resources.
 Several countries rely on the WHO for healthcare, treatment, and
 research funding, and so it’s important to note where there are gaps,
 and where most costs lie, whether it be on primary health care or
-infectious diseases or noncommunicable diseases, etc.
+infectious diseases or noncommunicable diseases.
 
 ## Intended Final Products
 
@@ -44,7 +42,7 @@ The Global Health Expenditure Database:
 An open access database which provides internationally comparable data
 on health spending from 2000 to 2018 This database helps to monitor
 availability of health resources and extent to which these resources are
-utilized equitably and efficiently
+utilized equitably and efficiently.
 
 ## Analyses / Visualizations / Coding Challenges
 
