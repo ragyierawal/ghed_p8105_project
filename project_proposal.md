@@ -36,11 +36,11 @@ Out of Pocket Costs vs. Government Insurance vs. Private Insurance
 
 ## Data Source
 
-The Global Health Expenditure Database:
+World Health Organization’s Global Health Expenditure Database:
 <https://apps.who.int/nha/database/Home/Index/en>
 
 An open access database which provides internationally comparable data
-on health spending from 2000 to 2018 This database helps to monitor
+on health spending from 2000 to 2018. This database helps to monitor
 availability of health resources and extent to which these resources are
 utilized equitably and efficiently.
 
