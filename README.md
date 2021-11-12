@@ -2,4 +2,4 @@
 
 Global Health Expenditure Project
 
-Trisha Dwivedi, Pooja Mukund, Ragyie Rawal, Safiya Sirota sns2189, and Eric Wang
+Trisha Dwivedi, Pooja Mukund, Ragyie Rawal, Safiya Sirota, and Eric Wang
