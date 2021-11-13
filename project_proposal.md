@@ -1,51 +1,61 @@
-Project Proposal
+P8105 Final Project Proposal
 ================
 
-## Project Members
+### Group members
 
-1.  Trisha Dwivedi - trishad1
-2.  Pooja Mukund - pm3148
-3.  Ragyie Rawal - rr3423
-4.  Safiya Sirota - sns2189
-5.  Eric Wang - ew2717
+Trisha Dwivedi (trishad1), Pooja Mukund (pm3148), Ragyie Rawal (rr3423),
+Safiya Sirota (sns2189), Eric Wang (ew2717)
 
-## Project Title
+### Tentative project title
 
-Healthcare expenditure patterns in U.S. as compared to other countries
+Healthcare expenditure patterns in the U.S. compared to other countries
 
-## Project Motivation
+### Motivation
 
-Our goal is to compare various health-related expenditures across a
-select few countries, taking a look at private vs government costs, as
-well as the amount of funding received for varying categories of
-conditions. How do these vary by country? What do funding and expenses
-look like per capita, and for countries with varying socio-economic
-status.
+We hope to understand and present healthcare funding patterns in various
+countries. We want to show who is bearing the brunt of the costs and how
+spending distributions differ throughout the world. Several countries
+rely on the WHO for healthcare, treatment, and research funding, so
+recognizing underfunded areas is paramount to ensure care for everyone
+globally. We also hope to compare spending in specific countries across
+different areas, including: primary health care, infectious diseases,
+noncommunicable diseases, preventive, and curative care.
 
-We chose this topic because it’s important to understand the
-distribution of funding for healthcare, and compare that to the true
-expenses by country to see if they are receiving sufficient resources.
-Several countries rely on the WHO for healthcare, treatment, and
-research funding, and so it’s important to note where there are gaps,
-and where most costs lie, whether it be on primary health care or
-infectious diseases or noncommunicable diseases.
+### Intended Final Products
 
-## Intended Final Products
+We will create a website with an interactive dashboard in order to draw
+in a broad audience and make large amounts of WHO data accessible and
+informative.
 
-Out of Pocket Costs vs. Government Insurance vs. Private Insurance
-
-## Data Source
+### Data Source
 
 World Health Organization’s Global Health Expenditure Database:
 <https://apps.who.int/nha/database/Home/Index/en>
 
-An open access database which provides internationally comparable data
-on health spending from 2000 to 2018. This database helps to monitor
-availability of health resources and extent to which these resources are
-utilized equitably and efficiently.
+### Planned analyses, visualizations, and coding challenges
 
-## Analyses / Visualizations / Coding Challenges
+*Questions for analysis*: How does spending compare per capita between
+countries with high and low socioeconomic status? Are countries putting
+enough resources into their most prevalent diseases? How much do
+different countries spend on curative vs. preventive care? How much do
+out of pocket costs, government funding, and private insurance companies
+contribute?
 
-Coding challenges: dealing with missing data values in certain columns
+*Visualizations*: A dashboard comparing amounts of funding received for
+different categories for each country. An interactive world map of
+health expenditure information. A stacked bar plot of expenditures. A
+line plot showing how health expenditure has changed over time for
+multiple countries.
 
-## Planned Timeline
+*Coding challenges*: Dealing with missing data values. Understanding
+economics terminology and pulling the correct variables for analysis.
+Using pivot\_longer to properly tidy the dataset (the current columns
+are years).
+
+### Planned Timeline
+
+-   By November 19: Have project review meeting
+-   By November 23: Complete data tidying
+-   By November 30: Complete planned analyses, visualizations
+-   By December 11: Complete discussion of results, finalize report,
+    create deliverables
