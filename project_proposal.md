@@ -54,8 +54,8 @@ are years).
 
 ### Planned Timeline
 
--   By November 19: Have project review meeting
--   By November 23: Complete data tidying
--   By November 30: Complete planned analyses, visualizations
--   By December 11: Complete discussion of results, finalize report,
-    create deliverables
+-   November 19: Have project review meeting
+-   November 23: Complete data tidying
+-   November 30: Complete planned analyses, visualizations
+-   December 11: Complete discussion of results, finalize report, create
+    deliverables
