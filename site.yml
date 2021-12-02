@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "GHED Project"
   left:
-    - text: "about"
+    - text: "About Us"
       href: about.html
   right:
     - icon: fa-envelope fa-lg

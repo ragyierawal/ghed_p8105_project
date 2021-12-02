@@ -15,7 +15,7 @@ yes
 
 #### Data Set
 
-Main Source: [Global Health Expenditure Data](https://apps.who.int/nha/database)
+We obtained our data from the [Global Health Expenditure Database](https://apps.who.int/nha/database).
 
 <br>
 <center>
@@ -26,6 +26,6 @@ Explore Our Project
 
 [Findings](findings.html)
 
-[Website Overview](overview.html)
+[About Us](about.html)
 
 <img src="images/columbiabiostats.png" style="width:60%">
