@@ -1,9 +1,9 @@
-name: "GHE Project"
+name: "GHED Project"
 output_dir: "."
 navbar:
-  title: "GHE Project"
+  title: "GHED Project"
   left:
-    - text: "About"
+    - text: "about"
       href: about.html
   right:
     - icon: fa-envelope fa-lg
