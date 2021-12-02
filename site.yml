@@ -1,0 +1,15 @@
+name: "Eric Wang"
+output_dir: "."
+navbar:
+  title: "GHE Project"
+  left:
+    - text: "About"
+      href: about.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: mailto:<wang.eric@columbia.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/ericwanghu/
+output:
+  html_document:
+    theme: simplex
