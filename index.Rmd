@@ -1,12 +1,23 @@
 ---
-title: "My awesome website"
+title: "Global Health Expenditure"
+subtitle: "Project Title"
 output: 
   html_document:
-    toc: true
-    toc_float: true
-    theme: cerulean
+    code_folding: hide
+  always_allow_html: true
 ---
 
-# This is Jeff's awesome website
+<h6 style="text-align: left;" markdown="1">Eric Wang |  Pooja Mukund |  Ragyie Rawal |  Safiya Sirota |  Trisha Dwiveldi </h6>
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+<br>
+<center>
+
+What do you want to check out?
+
+[data set](dataset.html)
+
+[findings](findings.html)
+
+[website overview](overview.html)
+
+<img src="images/columbiabiostats.png" style="width:60%">
